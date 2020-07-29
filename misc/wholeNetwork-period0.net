@@ -1,0 +1,874 @@
+*vertices 330
+1 "2-TUPLE" ic Dandelion bc Dandelion x_fact 2.0 y_fact 2.0
+2 "AGENTS" ic White bc Black x_fact 1.0 y_fact 1.0
+3 "AGGREGATION-OPERATORS" ic Blue bc Blue x_fact 6.0 y_fact 6.0
+4 "AGGREGATION-RULES" ic White bc Black x_fact 1.0 y_fact 1.0
+5 "ATTRIBUTES" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+6 "AVERAGING-OPERATORS" ic White bc Black x_fact 1.0 y_fact 1.0
+7 "BEHAVIOR" ic White bc Black x_fact 1.0 y_fact 1.0
+8 "CHOICE-SHIFT" ic White bc Black x_fact 1.0 y_fact 1.0
+9 "COMPUTERS" ic White bc Black x_fact 1.0 y_fact 1.0
+10 "COMPUTING-WITH-WORDS" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+11 "CONFLICT" ic White bc Black x_fact 1.0 y_fact 1.0
+12 "CONSENSUS-DEGREE" ic White bc Black x_fact 1.0 y_fact 1.0
+13 "CONSENSUS-MEASURE" ic White bc Black x_fact 1.0 y_fact 1.0
+14 "CONSENSUS-MODEL" ic Green bc Green x_fact 1.0 y_fact 1.0
+15 "CONSENSUS-REACHING-PROCESS" ic White bc Black x_fact 1.0 y_fact 1.0
+16 "CREATIVITY-SUPPORT-SYSTEM" ic White bc Black x_fact 1.0 y_fact 1.0
+17 "DECISION-SUPPORT-SYSTEMS" ic Dandelion bc Dandelion x_fact 5.0 y_fact 5.0
+18 "DISTANCE-MEASURE" ic White bc Black x_fact 1.0 y_fact 1.0
+19 "ELECTRONIC-MEETING-SYSTEM" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+20 "EXPERT-SYSTEM" ic Fuchsia bc Fuchsia x_fact 2.0 y_fact 2.0
+21 "FUZZY-INFERENCE-SYSTEMS" ic White bc Black x_fact 1.0 y_fact 1.0
+22 "FUZZY-LINGUISTICS" ic White bc Black x_fact 1.0 y_fact 1.0
+23 "FUZZY-LINGUISTIC-PREFERENCE-RELATION" ic White bc Black x_fact 1.0 y_fact 1.0
+24 "FUZZY-NUMBERS" ic Pink bc Pink x_fact 3.0 y_fact 3.0
+25 "FUZZY-PREFERENCES" ic Dandelion bc Dandelion x_fact 2.0 y_fact 2.0
+26 "FUZZY-PREFERENCE-RELATIONS" ic Green bc Green x_fact 3.0 y_fact 3.0
+27 "FUZZY-SETS" ic Yellow bc Yellow x_fact 5.0 y_fact 5.0
+28 "FUZZY-SYSTEMS" ic White bc Black x_fact 1.0 y_fact 1.0
+29 "GENETIC-ALGORITHM" ic White bc Black x_fact 1.0 y_fact 1.0
+30 "GOAL-PROGRAMMING-MODEL" ic White bc Black x_fact 1.0 y_fact 1.0
+31 "GROUP-CONSENSUS-OPINION" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+32 "IMPORTANCE-WEIGHTS" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+33 "INCOMPLETE-FUZZY-PREFERENCE-RELATION" ic White bc Black x_fact 1.0 y_fact 1.0
+34 "INCOMPLETE-LINGUISTIC-PREFERENCE-RELATION" ic White bc Black x_fact 1.0 y_fact 1.0
+35 "INCOMPLETE-PREFERENCE-RELATIONS" ic Green bc Green x_fact 1.0 y_fact 1.0
+36 "INFORMATION-SYSTEMS" ic White bc Black x_fact 1.0 y_fact 1.0
+37 "INNOVATION" ic White bc Black x_fact 1.0 y_fact 1.0
+38 "INTELLIGENT-AGENTS" ic White bc Black x_fact 1.0 y_fact 1.0
+39 "INTERVAL-FUZZY-PREFERENCE-RELATION" ic Red bc Red x_fact 1.0 y_fact 1.0
+40 "INTERVAL-MULTIPLICATIVE-PREFERENCE-RELATION" ic Red bc Red x_fact 1.0 y_fact 1.0
+41 "INTERVAL-NUMBER" ic Red bc Red x_fact 1.0 y_fact 1.0
+42 "INTERVAL-VALUED-INTUITIONISTIC-FUZZY-SET" ic White bc Black x_fact 1.0 y_fact 1.0
+43 "INTUITIONISTIC-FUZZY-NUMBERS" ic White bc Black x_fact 1.0 y_fact 1.0
+44 "INTUITIONISTIC-FUZZY-PREFERENCE-RELATION" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+45 "INTUITIONISTIC-FUZZY-SETS" ic Pink bc Pink x_fact 2.0 y_fact 2.0
+46 "KNOWLEDGE-BASED-SYSTEMS" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+47 "LINEAR-PROGRAMMING-MODEL" ic White bc Black x_fact 1.0 y_fact 1.0
+48 "LINGUISTIC-AGGREGATION-OPERATORS" ic White bc Black x_fact 1.0 y_fact 1.0
+49 "LINGUISTIC-ASSESSMENTS" ic White bc Black x_fact 1.0 y_fact 1.0
+50 "LINGUISTIC-LABELS" ic White bc Black x_fact 1.0 y_fact 1.0
+51 "LINGUISTIC-PREFERENCES" ic CornflowerBlue bc CornflowerBlue x_fact 1.0 y_fact 1.0
+52 "LINGUISTIC-PREFERENCE-RELATIONS" ic White bc Black x_fact 2.0 y_fact 2.0
+53 "LINGUISTIC-QUANTIFIERS" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+54 "LINGUISTIC-VARIABLES" ic GreenYellow bc GreenYellow x_fact 2.0 y_fact 2.0
+55 "LOGIC-CONTROLLER" ic White bc Black x_fact 1.0 y_fact 1.0
+56 "MAKING-METHOD" ic White bc Black x_fact 1.0 y_fact 1.0
+57 "MANUFACTURING-SYSTEMS" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+58 "MARKETS" ic White bc Black x_fact 1.0 y_fact 1.0
+59 "MULTI-AGENT-SYSTEMS" ic White bc Black x_fact 1.0 y_fact 1.0
+60 "MULTIPLICATIVE-PREFERENCE-RELATIONS" ic White bc Black x_fact 1.0 y_fact 1.0
+61 "NEGOTIATION" ic White bc Black x_fact 2.0 y_fact 2.0
+62 "NEURAL-NETWORKS" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+63 "ONTOLOGY" ic White bc Black x_fact 1.0 y_fact 1.0
+64 "OPINIONS" ic White bc Black x_fact 2.0 y_fact 2.0
+65 "OPTIMIZATION-MODEL" ic White bc Black x_fact 1.0 y_fact 1.0
+66 "ORGANIZATIONS" ic White bc Black x_fact 1.0 y_fact 1.0
+67 "OWA-OPERATORS" ic Blue bc Blue x_fact 5.0 y_fact 5.0
+68 "PAIRWISE-COMPARISONS" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+69 "PREFERENCE-RELATIONS" ic Blue bc Blue x_fact 4.0 y_fact 4.0
+70 "PREFERENCE-STRUCTURES" ic White bc Black x_fact 1.0 y_fact 1.0
+71 "PRIORITY" ic White bc Black x_fact 1.0 y_fact 1.0
+72 "PRIORITY-VECTOR" ic Green bc Green x_fact 1.0 y_fact 1.0
+73 "PROBABILITY" ic White bc Black x_fact 1.0 y_fact 1.0
+74 "PROGRAMMING-MODEL" ic White bc Black x_fact 1.0 y_fact 1.0
+75 "QUANTIFIERS" ic Blue bc Blue x_fact 2.0 y_fact 2.0
+76 "RANKING" ic Peach bc Peach x_fact 2.0 y_fact 2.0
+77 "RECOMMENDER-SYSTEM" ic Green bc Green x_fact 1.0 y_fact 1.0
+78 "ROUGH-SET" ic White bc Black x_fact 1.0 y_fact 1.0
+79 "RULES" ic White bc Black x_fact 1.0 y_fact 1.0
+80 "SELF-ORGANIZING-MAPS" ic White bc Black x_fact 1.0 y_fact 1.0
+81 "SERVICE" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+82 "SIMILARITY-MEASURES" ic Pink bc Pink x_fact 2.0 y_fact 2.0
+83 "SOCIAL-WELFARE-FUNCTIONS" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+84 "SUPPORT-VECTOR-MACHINE" ic White bc Black x_fact 1.0 y_fact 1.0
+85 "TOOL" ic White bc Black x_fact 1.0 y_fact 1.0
+86 "TRAPEZOID-FUZZY-NUMBERS" ic RedViolet bc RedViolet x_fact 1.0 y_fact 1.0
+87 "TRIANGULAR-FUZZY-NUMBER" ic White bc Black x_fact 1.0 y_fact 1.0
+88 "UNBALANCED-LINGUISTIC-TERM-SET" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+89 "UNCERTAIN-LINGUISTIC-VARIABLE" ic White bc Black x_fact 1.0 y_fact 1.0
+90 "UNCERTAINTY" ic Dandelion bc Dandelion x_fact 2.0 y_fact 2.0
+91 "UNINORMS" ic Green bc Green x_fact 1.0 y_fact 1.0
+92 "VIRTUAL-ENTERPRISE" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+93 "VOTERS" ic White bc Black x_fact 1.0 y_fact 1.0
+94 "WEIGHTED-AVERAGING-OPERATORS" ic White bc Black x_fact 1.0 y_fact 1.0
+95 "AHP" ic Green bc Green x_fact 6.0 y_fact 6.0
+96 "FEEDBACK" ic White bc Black x_fact 1.0 y_fact 1.0
+97 "DECISION-MAKING" ic Dandelion bc Dandelion x_fact 4.0 y_fact 4.0
+98 "SUPPLIER-SELECTION" ic White bc Black x_fact 1.0 y_fact 1.0
+99 "INFORMATION" ic Blue bc Blue x_fact 8.0 y_fact 8.0
+100 "CONSENSUS" ic Blue bc Blue x_fact 10.0 y_fact 10.0
+101 "SIMILARITY" ic White bc Black x_fact 1.0 y_fact 1.0
+102 "MULTIPLICATIVE-CONSISTENCY" ic White bc Black x_fact 1.0 y_fact 1.0
+103 "OPTIMIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+104 "INTEGRATION" ic White bc Black x_fact 1.0 y_fact 1.0
+105 "REPRESENTATION" ic White bc Black x_fact 1.0 y_fact 1.0
+106 "ENTROPY" ic White bc Black x_fact 1.0 y_fact 1.0
+107 "GAME-THEORY" ic White bc Black x_fact 1.0 y_fact 1.0
+108 "INCOMPLETE-INFORMATION" ic Green bc Green x_fact 3.0 y_fact 3.0
+109 "ADDITIVE-CONSISTENCY" ic Green bc Green x_fact 1.0 y_fact 1.0
+110 "COST" ic White bc Black x_fact 1.0 y_fact 1.0
+111 "CONSISTENCY" ic Green bc Green x_fact 3.0 y_fact 3.0
+112 "MULTI-ATTRIBUTE-GROUP-DECISION-MAKING" ic Red bc Red x_fact 3.0 y_fact 3.0
+113 "FUZZY-LOGIC" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+114 "LINGUISTIC-INFORMATION" ic White bc Black x_fact 1.0 y_fact 1.0
+115 "MULTI-CRITERIA-DECISION-MAKING" ic Yellow bc Yellow x_fact 4.0 y_fact 4.0
+116 "MULTI-CRITERIA-GROUP-DECISION-MAKING" ic White bc Black x_fact 1.0 y_fact 1.0
+117 "SENSITIVITY-ANALYSIS" ic White bc Black x_fact 1.0 y_fact 1.0
+118 "DECISION-ANALYSIS" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+119 "SIMULATION" ic White bc Black x_fact 1.0 y_fact 1.0
+120 "FUZZY-TOPSIS" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+121 "TOPSIS" ic Pink bc Pink x_fact 4.0 y_fact 4.0
+122 "DEMATEL" ic White bc Black x_fact 1.0 y_fact 1.0
+123 "CLASSIFICATION" ic White bc Black x_fact 1.0 y_fact 1.0
+124 "ALTERNATIVES" ic Peach bc Peach x_fact 2.0 y_fact 2.0
+125 "TRUST" ic White bc Black x_fact 1.0 y_fact 1.0
+126 "RISK-EVALUATION" ic White bc Black x_fact 1.0 y_fact 1.0
+127 "PARTICLE-SWARM-OPTIMIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+128 "MISSING-VALUES" ic Green bc Green x_fact 1.0 y_fact 1.0
+129 "PERFORMANCE-EVALUATION" ic White bc Black x_fact 1.0 y_fact 1.0
+130 "EVIDENTIAL-REASONING-APPROACH" ic White bc Black x_fact 1.0 y_fact 1.0
+131 "PRIORITIZATION" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+132 "MULTIPLE-CRITERIA" ic White bc Black x_fact 1.0 y_fact 1.0
+133 "FUZZY-AHP" ic Pink bc Pink x_fact 2.0 y_fact 2.0
+134 "PAIRWISE-COMPARISON-MATRIX" ic White bc Black x_fact 1.0 y_fact 1.0
+135 "GENERATION" ic White bc Black x_fact 1.0 y_fact 1.0
+136 "QUALITY-FUNCTION-DEPLOYMENT" ic Dandelion bc Dandelion x_fact 2.0 y_fact 2.0
+137 "DOMINANCE-RELATION" ic White bc Black x_fact 1.0 y_fact 1.0
+138 "FUZZY-MCDM" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+139 "INFORMATION-AGGREGATION" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+140 "RISK" ic White bc Black x_fact 1.0 y_fact 1.0
+141 "INTERNET" ic White bc Black x_fact 1.0 y_fact 1.0
+142 "HETEROGENEOUS-INFORMATION" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+143 "KNOWLEDGE-MANAGEMENT" ic White bc Black x_fact 2.0 y_fact 2.0
+144 "REPRESENTATION-MODEL" ic White bc Black x_fact 2.0 y_fact 2.0
+145 "WORK" ic White bc Black x_fact 1.0 y_fact 1.0
+146 "SUPPLY-CHAIN-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+147 "PERSPECTIVE" ic White bc Black x_fact 1.0 y_fact 1.0
+148 "FUZZY-GROUP-DECISION-MAKING" ic White bc Black x_fact 1.0 y_fact 1.0
+149 "CONSTANT-LEVEL" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+150 "OPERATIONAL-LAWS" ic White bc Black x_fact 1.0 y_fact 1.0
+151 "KNOWLEDGE" ic White bc Black x_fact 1.0 y_fact 1.0
+152 "CONNECTIVES" ic White bc Black x_fact 1.0 y_fact 1.0
+153 "ORNESS" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+154 "LINGUISTIC-MODELING" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+155 "POWER" ic White bc Black x_fact 1.0 y_fact 1.0
+156 "ARGUMENTATION" ic White bc Black x_fact 1.0 y_fact 1.0
+157 "CHOICE" ic White bc Black x_fact 1.0 y_fact 1.0
+158 "SELECTION-PROCESS" ic White bc Black x_fact 1.0 y_fact 1.0
+159 "MULTIPLE-ATTRIBUTE-DECISION-MAKING" ic Peach bc Peach x_fact 2.0 y_fact 2.0
+160 "TRANSITIVITY" ic Green bc Green x_fact 1.0 y_fact 1.0
+161 "INFORMATION-TECHNOLOGY" ic White bc Black x_fact 1.0 y_fact 1.0
+162 "LINEAR-PROGRAMMING" ic White bc Black x_fact 1.0 y_fact 1.0
+163 "QUALITY" ic Pink bc Pink x_fact 2.0 y_fact 2.0
+164 "SERVICE-QUALITY" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+165 "VISUALIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+166 "FUZZY-QFD" ic White bc Black x_fact 1.0 y_fact 1.0
+167 "DIAGNOSIS" ic White bc Black x_fact 1.0 y_fact 1.0
+168 "PERFORMANCE-APPRAISAL" ic White bc Black x_fact 1.0 y_fact 1.0
+169 "REQUIREMENTS" ic White bc Black x_fact 1.0 y_fact 1.0
+170 "LINMAP" ic White bc Black x_fact 1.0 y_fact 1.0
+171 "DOMINANCE" ic White bc Black x_fact 1.0 y_fact 1.0
+172 "CASE-BASED-REASONING" ic White bc Black x_fact 1.0 y_fact 1.0
+173 "RISK-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+174 "SIGNED-DISTANCE" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+175 "EVALUATION" ic White bc Black x_fact 1.0 y_fact 1.0
+176 "RESOURCE-ALLOCATION" ic White bc Black x_fact 1.0 y_fact 1.0
+177 "UTILITY" ic White bc Black x_fact 1.0 y_fact 1.0
+178 "IMPLEMENTATION" ic White bc Black x_fact 1.0 y_fact 1.0
+179 "MULTI-OBJECTIVE-OPTIMIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+180 "RISK-ANALYSIS" ic White bc Black x_fact 1.0 y_fact 1.0
+181 "MULTI-GRANULAR-LINGUISTIC-INFORMATION" ic White bc Black x_fact 1.0 y_fact 1.0
+182 "WEB" ic GreenYellow bc GreenYellow x_fact 2.0 y_fact 2.0
+183 "VAGUE-SET-THEORY" ic Pink bc Pink x_fact 2.0 y_fact 2.0
+184 "LINGUISTIC-REPRESENTATION-MODEL" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+185 "MAJORITY" ic PineGreen bc PineGreen x_fact 3.0 y_fact 3.0
+186 "DATA-MINING" ic White bc Black x_fact 1.0 y_fact 1.0
+187 "LOGISTICS" ic White bc Black x_fact 1.0 y_fact 1.0
+188 "COMPUTER-MEDIATED-COMMUNICATION" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+189 "TIME" ic White bc Black x_fact 1.0 y_fact 1.0
+190 "CONSENSUS-BUILDING" ic White bc Black x_fact 1.0 y_fact 1.0
+191 "BALANCED-SCORECARD" ic White bc Black x_fact 1.0 y_fact 1.0
+192 "FUZZY-DECISION-MAKING" ic Peach bc Peach x_fact 1.0 y_fact 1.0
+193 "SATISFACTION" ic White bc Black x_fact 1.0 y_fact 1.0
+194 "PREFERENCE-MODELING" ic White bc Black x_fact 1.0 y_fact 1.0
+195 "ANALYTIC-NETWORK-PROCESS" ic White bc Black x_fact 1.0 y_fact 1.0
+196 "STRENGTH" ic White bc Black x_fact 1.0 y_fact 1.0
+197 "EXTENT-ANALYSIS-METHOD" ic Bittersweet bc Bittersweet x_fact 1.0 y_fact 1.0
+198 "SEMANTICS" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+199 "FUZZY-LINGUISTIC-MODELING" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+200 "ARTIFICIAL-INTELLIGENCE" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+201 "FACILITY-LOCATION-SELECTION" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+202 "E-COMMERCE" ic White bc Black x_fact 1.0 y_fact 1.0
+203 "LINEAR-REGRESSION-ANALYSIS" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+204 "NEW-PRODUCT-DEVELOPMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+205 "MEMBERSHIP-FUNCTIONS" ic White bc Black x_fact 1.0 y_fact 1.0
+206 "FUZZY-MULTI-ATTRIBUTE-GROUP-DECISION-MAKING" ic White bc Black x_fact 1.0 y_fact 1.0
+207 "FUZZY-MADM" ic White bc Black x_fact 1.0 y_fact 1.0
+208 "FUZZY-MAJORITY" ic CornflowerBlue bc CornflowerBlue x_fact 1.0 y_fact 1.0
+209 "FACE-TO-FACE" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+210 "COMMUNICATION" ic White bc Black x_fact 1.0 y_fact 1.0
+211 "SOCIAL-CHOICE" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+212 "MULTICRITERIA-ANALYSIS" ic White bc Black x_fact 1.0 y_fact 1.0
+213 "DEGREE-OF-CONSENSUS" ic PineGreen bc PineGreen x_fact 1.0 y_fact 1.0
+214 "VECTOR" ic White bc Black x_fact 1.0 y_fact 1.0
+215 "INTELLIGENCE" ic White bc Black x_fact 1.0 y_fact 1.0
+216 "PRIORITIZE-DESIGN-REQUIREMENTS" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+217 "FUZZY-WEIGHTED-AVERAGE" ic White bc Black x_fact 1.0 y_fact 1.0
+218 "CUSTOMER-REQUIREMENTS" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+219 "MINIMAX-DISPARITY" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+220 "PROXIMITY" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+221 "FUZZY-LINGUISTIC-APPROACH" ic White bc Black x_fact 1.0 y_fact 1.0
+222 "ANTI-IDEAL-POINTS" ic White bc Black x_fact 1.0 y_fact 1.0
+223 "SUPPLY-PERFORMANCE" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+224 "DIFFERENT-FORMATS" ic White bc Black x_fact 1.0 y_fact 1.0
+225 "HOUSE-OF-QUALITY" ic White bc Black x_fact 1.0 y_fact 1.0
+226 "INFORMATION-RETRIEVAL" ic GreenYellow bc GreenYellow x_fact 2.0 y_fact 2.0
+227 "DEVELOPMENT-PROJECT-SELECTION" ic White bc Black x_fact 1.0 y_fact 1.0
+228 "MACHINE-LEARNING" ic Fuchsia bc Fuchsia x_fact 1.0 y_fact 1.0
+229 "COLLABORATIVE-DECISION-MAKING" ic White bc Black x_fact 1.0 y_fact 1.0
+230 "STRATEGIC-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+231 "MULTIPLE-CRITERIA-EVALUATION" ic White bc Black x_fact 1.0 y_fact 1.0
+232 "FACILITY-LOCATION" ic White bc Black x_fact 1.0 y_fact 1.0
+233 "CONFLICT-RESOLUTION" ic White bc Black x_fact 1.0 y_fact 1.0
+234 "ENTERPRISE-RESOURCE-PLANNING" ic White bc Black x_fact 1.0 y_fact 1.0
+235 "ORDINAL-PREFERENCE" ic White bc Black x_fact 1.0 y_fact 1.0
+236 "INTERACTIVE-PROCEDURE" ic White bc Black x_fact 1.0 y_fact 1.0
+237 "VENDOR-SELECTION" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+238 "QUALITATIVE-REASONING" ic White bc Black x_fact 1.0 y_fact 1.0
+239 "CREDIT-RISK" ic Red bc Red x_fact 1.0 y_fact 1.0
+240 "SOFTWARE-DEVELOPMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+241 "LINGUISTIC-ASSESSMENT-INFORMATION" ic White bc Black x_fact 1.0 y_fact 1.0
+242 "SUCCESS" ic White bc Black x_fact 1.0 y_fact 1.0
+243 "DELPHI-METHOD" ic White bc Black x_fact 1.0 y_fact 1.0
+244 "VALIDATION" ic White bc Black x_fact 1.0 y_fact 1.0
+245 "DISTANCE-METHOD" ic White bc Black x_fact 1.0 y_fact 1.0
+246 "OPERATOR-WEIGHTS" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+247 "FUZZY-THEORY" ic White bc Black x_fact 1.0 y_fact 1.0
+248 "REAL" ic White bc Black x_fact 1.0 y_fact 1.0
+249 "IMPRECISE-INFORMATION" ic White bc Black x_fact 1.0 y_fact 1.0
+250 "MCDA" ic White bc Black x_fact 1.0 y_fact 1.0
+251 "FUZZY-OPINIONS-AGGREGATION" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+252 "FOUNDATION" ic White bc Black x_fact 1.0 y_fact 1.0
+253 "FUZZY-AXIOMATIC-DESIGN" ic White bc Black x_fact 1.0 y_fact 1.0
+254 "MULTIATTRIBUTE-SELECTION" ic White bc Black x_fact 1.0 y_fact 1.0
+255 "ENGINEERING-DESIGN" ic White bc Black x_fact 1.0 y_fact 1.0
+256 "CONCEPTUAL-DESIGN" ic White bc Black x_fact 1.0 y_fact 1.0
+257 "DISTRIBUTED-GROUP-DECISION-MAKING" ic White bc Black x_fact 1.0 y_fact 1.0
+258 "NOMINAL-GROUP-TECHNIQUE" ic White bc Black x_fact 1.0 y_fact 1.0
+259 "IDEA-GENERATION" ic White bc Black x_fact 1.0 y_fact 1.0
+260 "GOALS" ic White bc Black x_fact 1.0 y_fact 1.0
+261 "ALTERNATIVE-RANKING" ic White bc Black x_fact 1.0 y_fact 1.0
+262 "COMMUNICATION-MODE" ic White bc Black x_fact 1.0 y_fact 1.0
+263 "LEADERSHIP" ic White bc Black x_fact 1.0 y_fact 1.0
+264 "WEIGHTED-QUERIES" ic White bc Black x_fact 1.0 y_fact 1.0
+265 "FUZZY-EVALUATION" ic White bc Black x_fact 1.0 y_fact 1.0
+266 "GSS" ic White bc Black x_fact 1.0 y_fact 1.0
+267 "COLLECTIVE-INTELLIGENCE" ic White bc Black x_fact 1.0 y_fact 1.0
+268 "KANSEI-ENGINEERING" ic White bc Black x_fact 1.0 y_fact 1.0
+269 "CREDIBILITY-DISTRIBUTION" ic RedViolet bc RedViolet x_fact 1.0 y_fact 1.0
+270 "TOWA-OPERATOR" ic Red bc Red x_fact 1.0 y_fact 1.0
+271 "BACKORDER" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+272 "INVENTORY" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+273 "LINGUISTIC-DATA" ic Magenta bc Magenta x_fact 1.0 y_fact 1.0
+274 "COLLABORATIVE" ic White bc Black x_fact 1.0 y_fact 1.0
+275 "KNOWLEDGE-TRANSFER" ic White bc Black x_fact 1.0 y_fact 1.0
+276 "STRATEGIC-ALLIANCES" ic White bc Black x_fact 1.0 y_fact 1.0
+277 "TQM" ic White bc Black x_fact 1.0 y_fact 1.0
+278 "TOTAL-QUALITY-MANAGEMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+279 "MASS-CUSTOMIZATION" ic White bc Black x_fact 1.0 y_fact 1.0
+280 "LEARNING-ALGORITHMS" ic White bc Black x_fact 1.0 y_fact 1.0
+281 "GREY-RELATIVE-DEGREE" ic RedViolet bc RedViolet x_fact 1.0 y_fact 1.0
+282 "FUZZY-HIERARCHICAL-TOPSIS" ic White bc Black x_fact 1.0 y_fact 1.0
+283 "CSCW" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+284 "COST-BENEFIT-ANALYSIS" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+285 "WILLINGNESS-TO-PAY" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+286 "PROBABILITY-POSSIBILITY-TRANSFORMATIONS" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+287 "PUBLIC-INVESTMENT-DECISIONS" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+288 "FIXED-POINT-THEOREMS" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+289 "CONTINGENT-VALUATION" ic Mulberry bc Mulberry x_fact 1.0 y_fact 1.0
+290 "KNOWLEDGE-REPRESENTATION" ic White bc Black x_fact 1.0 y_fact 1.0
+291 "IDEA-GENERATION-AND-ARGUMENTATION" ic White bc Black x_fact 1.0 y_fact 1.0
+292 "SET-PAIR-ANALYSIS" ic White bc Black x_fact 1.0 y_fact 1.0
+293 "INDIVIDUAL-PREFERENCE" ic White bc Black x_fact 1.0 y_fact 1.0
+294 "CONSISTENT-INCOMPLETE-FUZZY-PREFERENCE-RELATION" ic White bc Black x_fact 1.0 y_fact 1.0
+295 "POSSIBILITY" ic White bc Black x_fact 1.0 y_fact 1.0
+296 "INTERVAL-UTILITY-VALUE" ic Red bc Red x_fact 1.0 y_fact 1.0
+297 "VPRS" ic White bc Black x_fact 1.0 y_fact 1.0
+298 "METRICS" ic White bc Black x_fact 1.0 y_fact 1.0
+299 "LINGUISTIC-VALUED-WEIGHTED-AGGREGATION-(LVWA)-OPERATOR" ic Red bc Red x_fact 1.0 y_fact 1.0
+300 "LINGUISTIC-VALUED-LATTICE-IMPLICATION-ALGEBRA" ic Red bc Red x_fact 1.0 y_fact 1.0
+301 "LATTICE-THEORY" ic Red bc Red x_fact 1.0 y_fact 1.0
+302 "QUALIFICATION" ic White bc Black x_fact 1.0 y_fact 1.0
+303 "EMERGENCY-RESPONSE" ic White bc Black x_fact 1.0 y_fact 1.0
+304 "WEB-BASED-DECISION-SUPPORT-SYSTEMS" ic White bc Black x_fact 1.0 y_fact 1.0
+305 "FACILITATION" ic White bc Black x_fact 1.0 y_fact 1.0
+306 "LINEAR-PARTIAL-INFORMATION" ic White bc Black x_fact 1.0 y_fact 1.0
+307 "GROUPWARE" ic White bc Black x_fact 1.0 y_fact 1.0
+308 "WORLD-WIDE-WEB" ic White bc Black x_fact 1.0 y_fact 1.0
+309 "EMPIRICAL-ASSESSMENT" ic White bc Black x_fact 1.0 y_fact 1.0
+310 "FUZZY-QUANTIFIERS" ic CornflowerBlue bc CornflowerBlue x_fact 1.0 y_fact 1.0
+311 "KNOWLEDGE-ACQUISITION" ic White bc Black x_fact 1.0 y_fact 1.0
+312 "PLURAL-ENTROPY" ic Red bc Red x_fact 1.0 y_fact 1.0
+313 "GROUP-EIGENVALUE-METHOD" ic Red bc Red x_fact 1.0 y_fact 1.0
+314 "ANONYMITY" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+315 "STRATEGIC-PLANNING" ic White bc Black x_fact 1.0 y_fact 1.0
+316 "FUZZY-INDIVIDUAL-OPINIONS" ic Salmon bc Salmon x_fact 1.0 y_fact 1.0
+317 "LOGIC-MODEL" ic White bc Black x_fact 1.0 y_fact 1.0
+318 "EMPIRICAL-STUDY" ic White bc Black x_fact 1.0 y_fact 1.0
+319 "SELF-ORGANIZING-APPROACH" ic White bc Black x_fact 1.0 y_fact 1.0
+320 "GROUP-COMMUNICATION" ic White bc Black x_fact 1.0 y_fact 1.0
+321 "TASK" ic White bc Black x_fact 1.0 y_fact 1.0
+322 "PLANS" ic White bc Black x_fact 1.0 y_fact 1.0
+323 "COMPUTER-SUPPORT" ic White bc Black x_fact 1.0 y_fact 1.0
+324 "MEETINGS" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+325 "MULTIMEDIA" ic White bc Black x_fact 1.0 y_fact 1.0
+326 "PROBLEM-SOLVING" ic White bc Black x_fact 1.0 y_fact 1.0
+327 "BOUNDED-RATIONALITY" ic White bc Black x_fact 1.0 y_fact 1.0
+328 "INTERFACE" ic White bc Black x_fact 1.0 y_fact 1.0
+329 "COMPUTER-SUPPORTED-COLLABORATIVE-WORK" ic White bc Black x_fact 1.0 y_fact 1.0
+330 "IOWA-OPERATOR" ic White bc Black x_fact 1.0 y_fact 1.0
+*edges
+1 54 0.3636 c Black
+1 97 0.1250 c Dandelion
+1 99 0.4098 c Black
+1 142 1.3333 c Dandelion
+1 143 0.4444 c Black
+1 144 1.4545 c Black
+1 221 1.5000 c Black
+1 241 1.3333 c Black
+3 6 0.2174 c Black
+3 10 0.4348 c Black
+3 14 0.1449 c Black
+3 25 0.0791 c Black
+3 26 0.0395 c Black
+3 27 0.0994 c Black
+3 52 0.2174 c Black
+3 54 0.0791 c Black
+3 67 0.9185 c Blue
+3 69 0.8768 c Blue
+3 75 0.0725 c Blue
+3 82 0.0870 c Black
+3 89 1.1180 c Black
+3 97 0.1087 c Black
+3 99 0.6023 c Blue
+3 100 0.5260 c Blue
+3 105 0.3261 c Black
+3 111 0.1449 c Black
+3 121 0.0783 c Black
+3 139 0.4348 c Blue
+3 144 0.3162 c Black
+3 157 0.2174 c Black
+3 183 0.1957 c Black
+3 185 0.0458 c Black
+3 211 0.1242 c Black
+3 226 0.1630 c Black
+3 264 0.4348 c Black
+3 302 0.4348 c Black
+3 330 0.6522 c Black
+4 25 1.8182 c Black
+5 27 0.5714 c Yellow
+6 67 0.2500 c Black
+6 89 1.4286 c Gray95
+6 99 0.1639 c Black
+6 100 0.2778 c Black
+10 27 0.1429 c Black
+10 54 2.8409 c GreenYellow
+10 67 0.2812 c Black
+10 69 0.3750 c Black
+10 99 0.0820 c Black
+10 100 0.0617 c Black
+10 144 1.0227 c Black
+10 154 1.0000 c GreenYellow
+10 226 0.4167 c GreenYellow
+12 52 1.1111 c Gray95
+14 69 0.5000 c Black
+14 91 3.3333 c Green
+14 111 0.6250 c Green
+14 160 0.8333 c Green
+15 69 0.4444 c Black
+17 20 0.0877 c Black
+17 26 0.0478 c Black
+17 27 0.1880 c Black
+17 46 0.3947 c Black
+17 56 0.3509 c Black
+17 66 0.3509 c Black
+17 95 0.0245 c Black
+17 97 0.0740 c Dandelion
+17 100 0.0520 c Black
+17 108 0.0619 c Black
+17 115 0.2961 c Black
+17 159 0.0702 c Black
+17 174 0.3509 c Black
+17 185 0.0554 c Black
+17 201 0.5263 c Black
+17 240 0.1316 c Black
+17 271 0.5263 c Black
+17 272 0.5263 c Black
+17 315 0.2632 c Black
+17 327 0.5263 c Black
+18 24 0.9091 c Black
+19 141 1.3333 c Black
+19 188 1.3333 c Lavender
+19 209 1.6000 c Lavender
+20 46 2.2222 c Fuchsia
+20 200 2.9762 c Fuchsia
+20 228 1.1111 c Fuchsia
+24 54 0.6612 c Black
+24 67 0.1023 c Black
+24 75 0.3409 c Black
+24 76 0.1299 c Black
+24 82 0.1818 c Pink
+24 95 0.1691 c Black
+24 99 0.1863 c Black
+24 100 0.0898 c Black
+24 115 0.1278 c Black
+24 121 0.6545 c Pink
+24 124 0.2922 c Black
+24 149 0.9091 c Black
+24 153 0.6061 c Black
+24 192 0.4545 c Black
+24 206 0.2597 c Black
+25 26 0.1653 c Black
+25 51 1.8182 c Black
+25 70 1.8182 c Black
+25 75 0.3030 c Black
+25 97 0.2557 c Dandelion
+25 100 0.2806 c Black
+25 111 0.1515 c Black
+25 185 0.1914 c Black
+25 208 2.0455 c Black
+25 211 0.5195 c Black
+25 310 1.8182 c Black
+26 67 0.1023 c Black
+26 69 0.0606 c Black
+26 72 0.2597 c Green
+26 97 0.0568 c Black
+26 99 0.1192 c Black
+26 100 0.5612 c Black
+26 108 0.2406 c Green
+26 109 0.3030 c Green
+26 111 0.6818 c Green
+26 128 0.6061 c Green
+26 154 0.3636 c Black
+26 160 0.5114 c Green
+26 185 0.5981 c Black
+27 56 0.3810 c Black
+27 67 0.1143 c Black
+27 76 0.0816 c Black
+27 83 0.4286 c Black
+27 95 0.1661 c Black
+27 97 0.0804 c Black
+27 99 0.0422 c Black
+27 100 0.0141 c Black
+27 111 0.0476 c Black
+27 112 0.0544 c Black
+27 115 0.7232 c Yellow
+27 121 0.1029 c Black
+27 159 0.0762 c Black
+27 172 0.1633 c Black
+27 174 0.8571 c Yellow
+27 197 0.1429 c Black
+27 201 0.5714 c Yellow
+27 203 0.5143 c Yellow
+27 221 0.1905 c Black
+27 240 0.3214 c Black
+27 271 0.5714 c Yellow
+27 272 0.5714 c Yellow
+27 284 0.6429 c Yellow
+27 285 0.5143 c Yellow
+27 286 0.6429 c Yellow
+27 287 0.5143 c Black
+27 288 0.6429 c Yellow
+27 289 0.5143 c Black
+29 100 0.0705 c Black
+30 95 0.5316 c Black
+30 100 0.0705 c Black
+30 238 2.8571 c Gray95
+31 251 10.0000 c Salmon
+31 316 10.0000 c Salmon
+32 95 0.4186 c Black
+32 133 0.6667 c Black
+32 136 1.6364 c Black
+32 218 4.5000 c Magenta
+32 273 4.0000 c Magenta
+33 72 1.1429 c Black
+33 99 0.5246 c Black
+33 294 4.0000 c Gray95
+34 100 0.2469 c Black
+35 77 1.1111 c Green
+35 99 0.2459 c Black
+35 109 1.1111 c Green
+35 111 0.6250 c Green
+37 99 0.2186 c Black
+37 276 6.6667 c Gray95
+39 40 10.0000 c Red
+39 95 0.4651 c Black
+39 112 0.9524 c Red
+39 296 10.0000 c Red
+40 95 0.4651 c Black
+40 112 0.9524 c Red
+40 296 10.0000 c Red
+41 112 1.4286 c Red
+43 183 2.0000 c Black
+44 45 2.2222 c Black
+44 53 2.8571 c PineGreen
+44 100 0.2469 c Black
+44 185 1.0526 c PineGreen
+44 213 10.0000 c PineGreen
+45 53 0.6349 c Black
+45 67 0.1111 c Black
+45 82 1.0000 c Pink
+45 99 0.0729 c Black
+45 100 0.2195 c Black
+45 112 0.4762 c Black
+45 121 0.1778 c Pink
+45 183 1.0000 c Pink
+45 185 0.2339 c Black
+45 213 2.2222 c Black
+48 100 0.1646 c Black
+49 67 0.3214 c Black
+49 100 0.2822 c Black
+50 69 0.6667 c Black
+51 208 5.0000 c CornflowerBlue
+52 99 0.0729 c Black
+52 100 0.1235 c Black
+53 100 0.4409 c Black
+53 185 1.2030 c PineGreen
+53 213 2.8571 c PineGreen
+54 67 0.0909 c Black
+54 69 0.1212 c Black
+54 100 0.0449 c Black
+54 115 0.2557 c Black
+54 144 0.3306 c Black
+54 154 0.7273 c GreenYellow
+54 192 0.9091 c Black
+54 206 0.5195 c Black
+54 226 0.3030 c GreenYellow
+55 82 2.0000 c Black
+56 115 0.4167 c Black
+57 95 0.1860 c Black
+57 97 0.2500 c Dandelion
+57 120 1.0000 c Black
+57 254 2.6667 c Black
+60 100 0.1646 c Black
+61 209 0.8889 c Black
+61 233 2.2222 c Gray95
+62 197 0.8333 c Bittersweet
+64 82 0.3077 c Black
+64 100 0.1519 c Black
+64 180 1.0256 c Gray95
+67 69 0.4083 c Blue
+67 75 0.5208 c Blue
+67 90 0.1000 c Black
+67 95 0.0930 c Black
+67 97 0.0703 c Black
+67 99 1.0492 c Blue
+67 100 0.8920 c Blue
+67 105 0.1667 c Black
+67 111 0.1667 c Black
+67 113 0.1250 c Black
+67 115 0.0312 c Black
+67 124 0.0714 c Black
+67 136 0.0909 c Black
+67 139 0.5000 c Blue
+67 143 0.1111 c Black
+67 144 0.2045 c Black
+67 149 0.5000 c Blue
+67 153 0.7500 c Blue
+67 154 0.2000 c Black
+67 185 0.1184 c Black
+67 219 0.5000 c Blue
+67 221 0.1667 c Black
+67 223 0.5000 c Blue
+67 226 0.3333 c Black
+67 246 0.5000 c Blue
+67 330 0.3333 c Black
+68 95 0.2326 c Black
+68 124 0.7143 c Peach
+69 75 0.2500 c Blue
+69 88 0.6667 c Black
+69 89 0.4286 c Black
+69 94 0.4444 c Black
+69 99 0.1967 c Blue
+69 100 0.3333 c Blue
+69 111 0.3472 c Black
+69 112 0.1429 c Black
+69 144 1.0909 c Black
+69 154 0.2667 c Black
+69 185 0.0702 c Black
+69 199 0.2222 c Black
+69 226 0.6944 c Black
+69 299 0.6667 c Black
+69 300 0.6667 c Black
+69 301 0.6667 c Black
+71 95 0.1329 c Black
+71 111 0.2381 c Black
+71 214 2.8571 c Gray95
+72 95 0.1329 c Green
+72 99 0.0937 c Black
+72 100 0.0705 c Black
+72 111 0.5357 c Green
+72 294 2.8571 c Black
+74 120 2.5000 c Black
+74 222 10.0000 c Gray95
+75 76 0.2381 c Black
+75 99 0.4918 c Blue
+75 100 0.1646 c Blue
+75 124 0.2381 c Black
+75 149 1.6667 c Blue
+75 153 1.1111 c Blue
+75 185 0.7018 c Black
+75 208 1.8750 c Black
+75 246 1.6667 c Blue
+76 95 0.0664 c Black
+76 99 0.0468 c Black
+76 124 1.2755 c Peach
+76 148 0.9524 c Black
+77 99 0.1093 c Black
+77 111 0.6250 c Green
+77 163 0.6667 c Black
+77 182 0.7407 c Black
+77 199 2.5000 c Black
+77 221 1.1111 c Black
+77 226 0.5556 c Black
+80 268 6.6667 c Gray95
+81 95 0.4651 c Black
+81 197 2.5000 c Bittersweet
+82 100 0.1975 c Black
+82 121 0.1600 c Pink
+82 183 1.6000 c Pink
+83 203 8.3333 c Black
+83 284 6.6667 c Black
+83 285 8.3333 c Black
+83 286 6.6667 c Black
+83 287 8.3333 c Mulberry
+83 288 6.6667 c Black
+83 289 8.3333 c Mulberry
+86 100 0.3704 c Black
+86 112 0.6349 c Black
+86 269 6.6667 c RedViolet
+86 270 7.5000 c Black
+86 281 6.6667 c RedViolet
+88 100 0.2469 c Black
+88 226 1.6667 c GreenYellow
+89 99 0.2108 c Black
+89 100 0.1587 c Black
+90 97 0.1250 c Dandelion
+90 99 0.1475 c Black
+90 219 2.0000 c Black
+91 111 0.8333 c Green
+91 160 2.5000 c Green
+92 121 0.5333 c Pink
+93 317 10.0000 c Gray95
+95 97 0.0291 c Black
+95 99 0.1868 c Black
+95 100 0.1034 c Black
+95 111 0.3488 c Green
+95 112 0.0443 c Black
+95 115 0.4651 c Black
+95 120 0.2616 c Black
+95 121 0.2326 c Black
+95 124 0.2658 c Black
+95 129 0.4651 c Black
+95 131 0.4651 c Black
+95 133 1.2403 c Black
+95 136 0.0846 c Black
+95 160 0.1163 c Green
+95 163 0.2093 c Black
+95 177 0.2326 c Black
+95 197 1.0465 c Black
+95 202 0.1860 c Black
+95 204 0.1550 c Black
+95 218 0.2326 c Black
+95 224 0.4651 c Black
+95 296 0.4651 c Black
+97 99 0.1844 c Black
+97 111 0.0521 c Black
+97 113 0.1562 c Dandelion
+97 118 0.3125 c Dandelion
+97 136 0.1136 c Dandelion
+97 142 0.4167 c Dandelion
+97 184 0.4167 c Dandelion
+97 283 0.4167 c Dandelion
+99 100 0.3420 c Blue
+99 111 0.2459 c Black
+99 112 0.1952 c Black
+99 121 0.1049 c Black
+99 124 0.1874 c Black
+99 143 0.1639 c Black
+99 144 0.5365 c Black
+99 149 0.3279 c Blue
+99 153 0.4918 c Blue
+99 159 0.0437 c Black
+99 160 0.0820 c Black
+99 184 0.2186 c Black
+99 185 0.0777 c Black
+99 206 0.0937 c Black
+99 211 0.0937 c Black
+99 219 0.3279 c Blue
+99 221 0.4372 c Black
+99 246 0.3279 c Blue
+99 262 0.3279 c Black
+99 294 0.3279 c Black
+99 330 0.2186 c Black
+100 108 0.0654 c Black
+100 111 0.2521 c Black
+100 112 0.3762 c Black
+100 113 0.0617 c Black
+100 115 0.0154 c Black
+100 124 0.0353 c Black
+100 138 0.1235 c Black
+100 144 0.1796 c Black
+100 154 0.2222 c Black
+100 160 0.0617 c Black
+100 182 0.1235 c Black
+100 185 0.7862 c Black
+100 198 0.2778 c Black
+100 199 0.0823 c Black
+100 213 0.2469 c Black
+100 226 0.2572 c Black
+100 269 0.2469 c Black
+100 270 0.4938 c Black
+100 281 0.2469 c Black
+100 299 0.2469 c Black
+100 300 0.2469 c Black
+100 301 0.2469 c Black
+108 109 0.8824 c Green
+108 111 0.6127 c Green
+108 112 0.1120 c Black
+108 124 0.1681 c Black
+108 128 0.7843 c Green
+108 160 0.2941 c Green
+108 236 1.1765 c Black
+108 290 1.1765 c Black
+108 291 1.1765 c Black
+109 111 0.6250 c Green
+109 128 5.0000 c Green
+109 160 0.8333 c Green
+111 128 0.5556 c Green
+111 160 1.8750 c Green
+111 182 0.1852 c Black
+111 185 0.0877 c Black
+111 199 0.2778 c Black
+111 211 0.2381 c Black
+111 226 0.1389 c Black
+112 121 0.0762 c Black
+112 144 0.3896 c Black
+112 239 0.9524 c Red
+112 270 1.0714 c Red
+112 296 0.9524 c Red
+112 299 0.9524 c Red
+112 300 0.9524 c Red
+112 301 0.9524 c Red
+112 312 0.9524 c Red
+112 313 0.9524 c Red
+115 121 0.4500 c Black
+115 124 0.0893 c Black
+115 129 0.6250 c Black
+115 133 0.4167 c Black
+115 143 0.1389 c Black
+115 163 0.1250 c Black
+115 171 0.4167 c Black
+115 197 0.3516 c Black
+115 204 0.2083 c Black
+115 210 0.2083 c Black
+115 240 0.1562 c Black
+118 245 5.0000 c Black
+120 121 0.2000 c Pink
+120 133 0.4167 c Pink
+120 222 2.5000 c Black
+121 133 0.1333 c Pink
+121 138 0.4000 c Pink
+121 163 0.1600 c Pink
+121 164 0.5333 c Pink
+121 183 0.1600 c Pink
+121 237 0.4000 c Pink
+124 159 0.1905 c Peach
+124 192 0.7143 c Peach
+129 133 1.6667 c Black
+130 159 0.8889 c Black
+131 197 2.5000 c Bittersweet
+133 163 0.3333 c Pink
+133 197 3.7500 c Black
+133 282 1.6667 c Black
+136 166 1.8182 c Black
+136 216 2.7273 c Black
+136 218 3.6364 c Black
+136 225 1.8182 c Black
+136 273 1.8182 c Black
+138 164 3.3333 c Pink
+141 155 3.3333 c Gray95
+143 241 1.4815 c Gray95
+144 299 1.8182 c Black
+144 300 1.8182 c Black
+144 301 1.8182 c Black
+149 153 6.6667 c Blue
+154 226 0.6667 c GreenYellow
+163 182 0.4444 c Black
+163 199 1.5000 c Black
+163 226 0.7500 c Black
+171 306 6.6667 c Gray95
+172 303 2.8571 c Gray95
+174 201 6.6667 c Yellow
+174 271 6.6667 c Yellow
+174 272 6.6667 c Yellow
+177 224 5.0000 c Gray95
+178 242 6.6667 c Gray95
+182 199 1.6667 c GreenYellow
+182 226 0.8333 c GreenYellow
+185 211 0.3008 c PineGreen
+185 213 1.0526 c PineGreen
+188 209 1.3333 c Lavender
+188 220 2.2222 c Lavender
+188 314 1.1111 c Lavender
+188 324 1.3333 c Lavender
+191 230 10.0000 c Gray95
+198 226 0.8333 c GreenYellow
+199 226 3.4722 c GreenYellow
+201 271 10.0000 c Yellow
+201 272 10.0000 c Yellow
+203 284 8.0000 c Yellow
+203 285 10.0000 c Yellow
+203 286 8.0000 c Yellow
+203 287 10.0000 c Black
+203 288 8.0000 c Yellow
+203 289 10.0000 c Black
+208 310 5.0000 c CornflowerBlue
+209 220 2.6667 c Lavender
+209 324 3.6000 c Lavender
+210 309 3.3333 c Gray95
+216 218 3.3333 c Magenta
+218 273 5.0000 c Magenta
+239 312 10.0000 c Red
+239 313 10.0000 c Red
+251 316 10.0000 c Salmon
+259 314 5.0000 c Black
+269 270 5.0000 c Black
+270 281 5.0000 c Black
+271 272 10.0000 c Yellow
+277 278 10.0000 c Gray95
+284 285 8.0000 c Yellow
+284 286 10.0000 c Yellow
+284 287 8.0000 c Black
+284 288 10.0000 c Yellow
+284 289 8.0000 c Black
+285 286 8.0000 c Yellow
+285 287 10.0000 c Black
+285 288 8.0000 c Yellow
+285 289 10.0000 c Black
+286 287 8.0000 c Black
+286 288 10.0000 c Yellow
+286 289 8.0000 c Black
+287 288 8.0000 c Black
+287 289 10.0000 c Mulberry
+288 289 8.0000 c Black
+290 291 10.0000 c Gray95
+299 300 10.0000 c Red
+299 301 10.0000 c Red
+300 301 10.0000 c Red
+312 313 10.0000 c Red
+318 319 10.0000 c Gray95
+323 324 2.6667 c Black
+323 328 6.6667 c Gray95

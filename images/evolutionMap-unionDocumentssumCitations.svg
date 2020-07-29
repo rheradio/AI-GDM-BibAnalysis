@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="630" zoomAndPan="magnify" contentStyleType="text/css" height="1409" preserveAspectRatio="xMidYMid meet" version="1.0">
+<radialGradient xlink:actuate="onLoad" xlink:type="simple" id="sphereTheme" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop style="stop-color:#C6DD3A" offset="0"/>
+<stop style="stop-color:#C3DA39" offset="0.211"/>
+<stop style="stop-color:#B8CF37" offset="0.3881"/>
+<stop style="stop-color:#A7BE34" offset="0.5529"/>
+<stop style="stop-color:#8EA630" offset="0.7103"/>
+<stop style="stop-color:#6F872A" offset="0.861"/>
+<stop style="stop-color:#4B6323" offset="1"/>
+</radialGradient>
+<circle fill="url(#sphereTheme)" r="5.940423273402773" cx="30" cy="30"/>
+<text x="35.94042327340277" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">MULTI-ATTRIBUTE-GROUP-DECISION-MAKING</text>
+<circle fill="url(#sphereTheme)" r="9.683871823790884" cx="30" cy="112"/>
+<text x="39.68387182379088" y="112" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">FUZZY-SETS</text>
+<circle fill="url(#sphereTheme)" r="22.01718304252637" cx="30" cy="194"/>
+<text x="52.01718304252637" y="194" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">OWA-OPERATORS</text>
+<circle fill="url(#sphereTheme)" r="16.19883234923373" cx="30" cy="276"/>
+<text x="46.198832349233726" y="276" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CONSISTENCY</text>
+<circle fill="url(#sphereTheme)" r="15.55032176739866" cx="30" cy="358"/>
+<text x="45.55032176739866" y="358" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">TOPSIS</text>
+<circle fill="url(#sphereTheme)" r="10.357261328202746" cx="30" cy="440"/>
+<text x="40.357261328202746" y="440" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">DECISION-MAKING</text>
+<circle fill="url(#sphereTheme)" r="9.267564519339217" cx="30" cy="522"/>
+<text x="39.26756451933922" y="522" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">INFORMATION-RETRIEVAL</text>
+<circle fill="url(#sphereTheme)" r="5.557287865720162" cx="30" cy="604"/>
+<text x="35.55728786572016" y="604" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">COMPUTER-MEDIATED-COMMUNICATION</text>
+<circle fill="url(#sphereTheme)" r="7.700192397001261" cx="30" cy="686"/>
+<text x="37.70019239700126" y="686" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">MAJORITY</text>
+<circle fill="url(#sphereTheme)" r="6.5673721223379555" cx="30" cy="768"/>
+<text x="36.56737212233796" y="768" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ALTERNATIVES</text>
+<circle fill="url(#sphereTheme)" r="5.612021495389106" cx="30" cy="850"/>
+<text x="35.61202149538911" y="850" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CUSTOMER-REQUIREMENTS</text>
+<circle fill="url(#sphereTheme)" r="5.245472036091024" cx="30" cy="932"/>
+<text x="35.24547203609102" y="932" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">EXPERT-SYSTEM</text>
+<circle fill="url(#sphereTheme)" r="6.365023552046706" cx="30" cy="1014"/>
+<text x="36.36502355204671" y="1014" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">EXTENT-ANALYSIS-METHOD</text>
+<circle fill="url(#sphereTheme)" r="5.0" cx="30" cy="1096"/>
+<text x="35.0" y="1096" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GROUP-CONSENSUS-OPINION</text>
+<circle fill="url(#sphereTheme)" r="5.013268758707623" cx="30" cy="1178"/>
+<text x="35.013268758707625" y="1178" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">PUBLIC-INVESTMENT-DECISIONS</text>
+<circle fill="url(#sphereTheme)" r="5.063026603861209" cx="30" cy="1260"/>
+<text x="35.06302660386121" y="1260" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">TRAPEZOID-FUZZY-NUMBERS</text>
+<circle fill="url(#sphereTheme)" r="5.094539905791813" cx="30" cy="1342"/>
+<text x="35.09453990579181" y="1342" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">FUZZY-MAJORITY</text>
+<circle fill="url(#sphereTheme)" r="30.0" cx="240" cy="30"/>
+<text x="270.0" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CONSISTENCY</text>
+<circle fill="url(#sphereTheme)" r="16.504013799509057" cx="240" cy="108"/>
+<text x="256.50401379950904" y="108" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">OWA-OPERATORS</text>
+<circle fill="url(#sphereTheme)" r="19.381675844224773" cx="240" cy="186"/>
+<text x="259.3816758442248" y="186" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">TOPSIS</text>
+<circle fill="url(#sphereTheme)" r="17.57878325482651" cx="240" cy="264"/>
+<text x="257.57878325482653" y="264" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">VAGUE-SET-THEORY</text>
+<circle fill="url(#sphereTheme)" r="11.601207457042394" cx="240" cy="342"/>
+<text x="251.6012074570424" y="342" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ANALYTIC-NETWORK-PROCESS</text>
+<circle fill="url(#sphereTheme)" r="9.712067936044583" cx="240" cy="420"/>
+<text x="249.71206793604458" y="420" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">DECISION-MAKING</text>
+<circle fill="url(#sphereTheme)" r="12.886618456843362" cx="240" cy="498"/>
+<text x="252.88661845684337" y="498" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">LINGUISTIC-VARIABLES</text>
+<circle fill="url(#sphereTheme)" r="16.654945929808264" cx="240" cy="576"/>
+<text x="256.65494592980826" y="576" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">FUZZY-SETS</text>
+<circle fill="url(#sphereTheme)" r="9.197903536124196" cx="240" cy="654"/>
+<text x="249.1979035361242" y="654" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">MAJORITY</text>
+<circle fill="url(#sphereTheme)" r="9.17800039806276" cx="240" cy="732"/>
+<text x="249.17800039806275" y="732" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ADDITIVE-CONSISTENCY</text>
+<circle fill="url(#sphereTheme)" r="7.426524248656538" cx="240" cy="810"/>
+<text x="247.42652424865653" y="810" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GROUP-MEMBERS</text>
+<circle fill="url(#sphereTheme)" r="6.496052544284482" cx="240" cy="888"/>
+<text x="246.49605254428448" y="888" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">RECOMMENDER-SYSTEM</text>
+<circle fill="url(#sphereTheme)" r="5.646851986996617" cx="240" cy="966"/>
+<text x="245.6468519869966" y="966" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">NEURAL-NETWORKS</text>
+<circle fill="url(#sphereTheme)" r="7.464671929940954" cx="240" cy="1044"/>
+<text x="247.46467192994095" y="1044" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CONSISTENCY-MEASURES</text>
+<circle fill="url(#sphereTheme)" r="6.884163736482452" cx="240" cy="1122"/>
+<text x="246.88416373648246" y="1122" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CHOQUET-INTEGRAL</text>
+<circle fill="url(#sphereTheme)" r="5.316791614144496" cx="240" cy="1200"/>
+<text x="245.3167916141445" y="1200" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">MULTIDIMENSIONAL-ANALYSIS</text>
+<circle fill="url(#sphereTheme)" r="5.369866648974988" cx="240" cy="1278"/>
+<text x="245.36986664897498" y="1278" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">FUZZY-GAME-THEORY</text>
+<circle fill="url(#sphereTheme)" r="5.228886087706495" cx="240" cy="1356"/>
+<text x="245.22888608770648" y="1356" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">PERSONALITY</text>
+<line y2="264.0" stroke-width="0.41666666666666663" x1="35.94042327340277" x2="222.4212167451735" stroke="black" y1="30.0"/>
+<line x1="35.94042327340277" x2="232.57347575134347" y1="30.0" style="stroke-dasharray: 9, 5" y2="810.0" stroke="black" stroke-width="0.5555555555555556"/>
+<line x1="39.68387182379088" x2="220.6183241557752" y1="112.0" style="stroke-dasharray: 9, 5" y2="186.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="576.0" stroke-width="0.41666666666666663" x1="39.68387182379088" x2="223.34505407019174" stroke="black" y1="112.0"/>
+<line x1="52.01718304252637" x2="210.0" y1="194.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="1.25"/>
+<line y2="108.0" stroke-width="1.25" x1="52.01718304252637" x2="223.49598620049093" stroke="black" y1="194.0"/>
+<line y2="30.0" stroke-width="1.6666666666666665" x1="46.198832349233726" x2="210.0" stroke="black" y1="276.0"/>
+<line x1="46.198832349233726" x2="223.34505407019174" y1="276.0" style="stroke-dasharray: 9, 5" y2="576.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="732.0" stroke-width="1.5" x1="46.198832349233726" x2="230.82199960193725" stroke="black" y1="276.0"/>
+<line y2="888.0" stroke-width="0.8333333333333333" x1="46.198832349233726" x2="233.50394745571552" stroke="black" y1="276.0"/>
+<line y2="186.0" stroke-width="1.25" x1="45.55032176739866" x2="220.6183241557752" stroke="black" y1="358.0"/>
+<line y2="264.0" stroke-width="1.25" x1="45.55032176739866" x2="222.4212167451735" stroke="black" y1="358.0"/>
+<line x1="45.55032176739866" x2="228.3987925429576" y1="358.0" style="stroke-dasharray: 9, 5" y2="342.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="45.55032176739866" x2="227.11338154315663" y1="358.0" style="stroke-dasharray: 9, 5" y2="498.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="45.55032176739866" x2="223.34505407019174" y1="358.0" style="stroke-dasharray: 9, 5" y2="576.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="420.0" stroke-width="0.41666666666666663" x1="40.357261328202746" x2="230.28793206395542" stroke="black" y1="440.0"/>
+<line x1="40.357261328202746" x2="227.11338154315663" y1="440.0" style="stroke-dasharray: 9, 5" y2="498.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="40.357261328202746" x2="223.34505407019174" y1="440.0" style="stroke-dasharray: 9, 5" y2="576.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="40.357261328202746" x2="230.8020964638758" y1="440.0" style="stroke-dasharray: 9, 5" y2="654.0" stroke="black" stroke-width="1.0"/>
+<line x1="40.357261328202746" x2="230.82199960193725" y1="440.0" style="stroke-dasharray: 9, 5" y2="732.0" stroke="black" stroke-width="0.5"/>
+<line y2="498.0" stroke-width="0.625" x1="39.26756451933922" x2="227.11338154315663" stroke="black" y1="522.0"/>
+<line y2="888.0" stroke-width="1.6666666666666665" x1="39.26756451933922" x2="233.50394745571552" stroke="black" y1="522.0"/>
+<line y2="654.0" stroke-width="2.0" x1="37.70019239700126" x2="230.8020964638758" stroke="black" y1="686.0"/>
+<line x1="36.56737212233796" x2="220.6183241557752" y1="768.0" style="stroke-dasharray: 9, 5" y2="186.0" stroke="black" stroke-width="1.0"/>
+<line y2="342.0" stroke-width="1.0" x1="36.56737212233796" x2="228.3987925429576" stroke="black" y1="768.0"/>
+<line x1="36.56737212233796" x2="230.28793206395542" y1="768.0" style="stroke-dasharray: 9, 5" y2="420.0" stroke="black" stroke-width="1.0"/>
+<line x1="36.56737212233796" x2="223.34505407019174" y1="768.0" style="stroke-dasharray: 9, 5" y2="576.0" stroke="black" stroke-width="1.0"/>
+<line y2="966.0" stroke-width="1.25" x1="36.36502355204671" x2="234.3531480130034" stroke="black" y1="1014.0"/>
+<line y2="654.0" stroke-width="1.6666666666666665" x1="35.09453990579181" x2="230.8020964638758" stroke="black" y1="1342.0"/>
+<circle fill="url(#sphereTheme)" r="23.375572215219265" cx="450" cy="30"/>
+<text x="473.3755722152193" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">TERM-SETS</text>
+<circle fill="url(#sphereTheme)" r="16.963444569760497" cx="450" cy="91"/>
+<text x="466.9634445697605" y="91" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">AHP</text>
+<circle fill="url(#sphereTheme)" r="13.200092881310955" cx="450" cy="152"/>
+<text x="463.200092881311" y="152" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CONSENSUS</text>
+<circle fill="url(#sphereTheme)" r="13.239899157433822" cx="450" cy="213"/>
+<text x="463.2398991574338" y="213" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">SIMILARITY-MEASURES</text>
+<circle fill="url(#sphereTheme)" r="13.079015458103894" cx="450" cy="274"/>
+<text x="463.07901545810387" y="274" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">MULTI-ATTRIBUTE-GROUP-DECISION-MAKING</text>
+<circle fill="url(#sphereTheme)" r="8.857891594241359" cx="450" cy="335"/>
+<text x="458.8578915942414" y="335" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">VIKOR-METHOD</text>
+<circle fill="url(#sphereTheme)" r="8.77164466264181" cx="450" cy="396"/>
+<text x="458.7716446626418" y="396" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">UNCERTAINTY</text>
+<circle fill="url(#sphereTheme)" r="9.690506203144697" cx="450" cy="457"/>
+<text x="459.6905062031447" y="457" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CONSENSUS-REACHING-PROCESS</text>
+<circle fill="url(#sphereTheme)" r="8.78823061102634" cx="450" cy="518"/>
+<text x="458.78823061102634" y="518" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">FUZZY-SETS</text>
+<circle fill="url(#sphereTheme)" r="7.877662044715716" cx="450" cy="579"/>
+<text x="457.8776620447157" y="579" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">SUPPLIER-SELECTION</text>
+<circle fill="url(#sphereTheme)" r="10.256087043057121" cx="450" cy="640"/>
+<text x="460.2560870430571" y="640" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">MULTI-CRITERIA-GROUP-DECISION-MAKING</text>
+<circle fill="url(#sphereTheme)" r="7.343594506733895" cx="450" cy="701"/>
+<text x="457.3435945067339" y="701" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">LINGUISTIC-TERM-SETS</text>
+<circle fill="url(#sphereTheme)" r="6.560737742984144" cx="450" cy="762"/>
+<text x="456.56073774298414" y="762" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">INFORMATION-AGGREGATION</text>
+<circle fill="url(#sphereTheme)" r="6.666887812645127" cx="450" cy="823"/>
+<text x="456.66688781264514" y="823" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">WEIGHTED-AVERAGING-OPERATORS</text>
+<circle fill="url(#sphereTheme)" r="6.194188283686061" cx="450" cy="884"/>
+<text x="456.19418828368606" y="884" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">RECOMMENDER-SYSTEM</text>
+<circle fill="url(#sphereTheme)" r="5.935447488887415" cx="450" cy="945"/>
+<text x="455.9354474888874" y="945" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GENETIC-ALGORITHM</text>
+<circle fill="url(#sphereTheme)" r="5.180786837391362" cx="450" cy="1006"/>
+<text x="455.18078683739134" y="1006" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">MULTI-AGENT-SYSTEMS</text>
+<circle fill="url(#sphereTheme)" r="5.867445100510848" cx="450" cy="1067"/>
+<text x="455.86744510051085" y="1067" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">PRIORITY-WEIGHTS</text>
+<circle fill="url(#sphereTheme)" r="5.696609832150203" cx="450" cy="1128"/>
+<text x="455.6966098321502" y="1128" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">RANKING-METHOD</text>
+<circle fill="url(#sphereTheme)" r="6.70337689909109" cx="450" cy="1189"/>
+<text x="456.7033768990911" y="1189" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">MEMBERSHIP-GRADES</text>
+<circle fill="url(#sphereTheme)" r="6.325217275923837" cx="450" cy="1250"/>
+<text x="456.3252172759238" y="1250" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">LINGUISTIC-INFORMATION</text>
+<circle fill="url(#sphereTheme)" r="5.811052876003449" cx="450" cy="1311"/>
+<text x="455.81105287600343" y="1311" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">GEOMETRIC-OPERATORS</text>
+<circle fill="url(#sphereTheme)" r="5.598752736681483" cx="450" cy="1372"/>
+<text x="455.5987527366815" y="1372" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">PRIORITY</text>
+<line y2="30.0" stroke-width="1.25" x1="270.0" x2="426.6244277847807" stroke="black" y1="30.0"/>
+<line y2="91.0" stroke-width="1.6666666666666665" x1="270.0" x2="433.0365554302395" stroke="black" y1="30.0"/>
+<line y2="152.0" stroke-width="0.8333333333333333" x1="270.0" x2="436.799907118689" stroke="black" y1="30.0"/>
+<line y2="1067.0" stroke-width="1.0" x1="270.0" x2="444.13255489948915" stroke="black" y1="30.0"/>
+<line y2="30.0" stroke-width="1.25" x1="256.50401379950904" x2="426.6244277847807" stroke="black" y1="108.0"/>
+<line x1="256.50401379950904" x2="436.7601008425662" y1="108.0" style="stroke-dasharray: 9, 5" y2="213.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="274.0" stroke-width="0.41666666666666663" x1="256.50401379950904" x2="436.92098454189613" stroke="black" y1="108.0"/>
+<line x1="256.50401379950904" x2="443.33311218735486" y1="108.0" style="stroke-dasharray: 9, 5" y2="823.0" stroke="black" stroke-width="1.4285714285714284"/>
+<line x1="256.50401379950904" x2="444.18894712399657" y1="108.0" style="stroke-dasharray: 9, 5" y2="1311.0" stroke="black" stroke-width="1.6666666666666665"/>
+<line y2="91.0" stroke-width="0.8333333333333333" x1="259.3816758442248" x2="433.0365554302395" stroke="black" y1="186.0"/>
+<line x1="259.3816758442248" x2="441.1421084057586" y1="186.0" style="stroke-dasharray: 9, 5" y2="335.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="259.3816758442248" x2="442.1223379552843" y1="186.0" style="stroke-dasharray: 9, 5" y2="579.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="640.0" stroke-width="0.41666666666666663" x1="259.3816758442248" x2="439.7439129569429" stroke="black" y1="186.0"/>
+<line y2="213.0" stroke-width="2.0833333333333335" x1="257.57878325482653" x2="436.7601008425662" stroke="black" y1="264.0"/>
+<line y2="274.0" stroke-width="0.41666666666666663" x1="257.57878325482653" x2="436.92098454189613" stroke="black" y1="264.0"/>
+<line x1="257.57878325482653" x2="442.1223379552843" y1="264.0" style="stroke-dasharray: 9, 5" y2="579.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="257.57878325482653" x2="444.3033901678498" y1="264.0" style="stroke-dasharray: 9, 5" y2="1128.0" stroke="black" stroke-width="1.25"/>
+<line x1="251.6012074570424" x2="441.21176938897366" y1="342.0" style="stroke-dasharray: 9, 5" y2="518.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="579.0" stroke-width="1.25" x1="251.6012074570424" x2="442.1223379552843" stroke="black" y1="342.0"/>
+<line x1="251.6012074570424" x2="439.7439129569429" y1="342.0" style="stroke-dasharray: 9, 5" y2="640.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="251.6012074570424" x2="443.6747827240762" y1="342.0" style="stroke-dasharray: 9, 5" y2="1250.0" stroke="black" stroke-width="1.25"/>
+<line y2="396.0" stroke-width="0.41666666666666663" x1="249.71206793604458" x2="441.2283553373582" stroke="black" y1="420.0"/>
+<line x1="249.71206793604458" x2="440.3094937968553" y1="420.0" style="stroke-dasharray: 9, 5" y2="457.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="249.71206793604458" x2="442.1223379552843" y1="420.0" style="stroke-dasharray: 9, 5" y2="579.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="249.71206793604458" x2="443.43926225701586" y1="420.0" style="stroke-dasharray: 9, 5" y2="762.0" stroke="black" stroke-width="0.625"/>
+<line y2="945.0" stroke-width="1.6666666666666665" x1="249.71206793604458" x2="444.0645525111126" stroke="black" y1="420.0"/>
+<line x1="252.88661845684337" x2="436.799907118689" y1="498.0" style="stroke-dasharray: 9, 5" y2="152.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="252.88661845684337" x2="436.92098454189613" y1="498.0" style="stroke-dasharray: 9, 5" y2="274.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="884.0" stroke-width="0.8333333333333333" x1="252.88661845684337" x2="443.80581171631394" stroke="black" y1="498.0"/>
+<line x1="256.65494592980826" x2="436.7601008425662" y1="576.0" style="stroke-dasharray: 9, 5" y2="213.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="335.0" stroke-width="0.41666666666666663" x1="256.65494592980826" x2="441.1421084057586" stroke="black" y1="576.0"/>
+<line y2="396.0" stroke-width="0.41666666666666663" x1="256.65494592980826" x2="441.2283553373582" stroke="black" y1="576.0"/>
+<line y2="518.0" stroke-width="0.41666666666666663" x1="256.65494592980826" x2="441.21176938897366" stroke="black" y1="576.0"/>
+<line x1="256.65494592980826" x2="439.7439129569429" y1="576.0" style="stroke-dasharray: 9, 5" y2="640.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="256.65494592980826" x2="443.80581171631394" y1="576.0" style="stroke-dasharray: 9, 5" y2="884.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="256.65494592980826" x2="444.13255489948915" y1="576.0" style="stroke-dasharray: 9, 5" y2="1067.0" stroke="black" stroke-width="1.0"/>
+<line y2="457.0" stroke-width="1.5" x1="249.1979035361242" x2="440.3094937968553" stroke="black" y1="654.0"/>
+<line y2="823.0" stroke-width="0.7142857142857142" x1="249.1979035361242" x2="443.33311218735486" stroke="black" y1="654.0"/>
+<line x1="249.17800039806275" x2="426.6244277847807" y1="732.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="0.5"/>
+<line y2="152.0" stroke-width="1.0" x1="249.17800039806275" x2="436.799907118689" stroke="black" y1="732.0"/>
+<line x1="249.17800039806275" x2="444.0645525111126" y1="732.0" style="stroke-dasharray: 9, 5" y2="945.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="249.17800039806275" x2="444.13255489948915" y1="732.0" style="stroke-dasharray: 9, 5" y2="1067.0" stroke="black" stroke-width="1.0"/>
+<line x1="247.42652424865653" x2="442.1223379552843" y1="810.0" style="stroke-dasharray: 9, 5" y2="579.0" stroke="black" stroke-width="0.5555555555555556"/>
+<line x1="247.42652424865653" x2="443.43926225701586" y1="810.0" style="stroke-dasharray: 9, 5" y2="762.0" stroke="black" stroke-width="0.625"/>
+<line y2="884.0" stroke-width="1.6666666666666665" x1="246.49605254428448" x2="443.80581171631394" stroke="black" y1="888.0"/>
+<line x1="245.6468519869966" x2="441.21176938897366" y1="966.0" style="stroke-dasharray: 9, 5" y2="518.0" stroke="black" stroke-width="1.0"/>
+<line x1="247.46467192994095" x2="436.7601008425662" y1="1044.0" style="stroke-dasharray: 9, 5" y2="213.0" stroke="black" stroke-width="1.25"/>
+<line y2="457.0" stroke-width="1.25" x1="247.46467192994095" x2="440.3094937968553" stroke="black" y1="1044.0"/>
+<line y2="1372.0" stroke-width="1.6666666666666665" x1="247.46467192994095" x2="444.4012472633185" stroke="black" y1="1044.0"/>
+<line x1="246.88416373648246" x2="436.92098454189613" y1="1122.0" style="stroke-dasharray: 9, 5" y2="274.0" stroke="black" stroke-width="2.5"/>
+<line y2="640.0" stroke-width="2.5" x1="246.88416373648246" x2="439.7439129569429" stroke="black" y1="1122.0"/>
+<line x1="245.22888608770648" x2="441.2283553373582" y1="1356.0" style="stroke-dasharray: 9, 5" y2="396.0" stroke="black" stroke-width="1.6666666666666665"/>
+<line y2="1006.0" stroke-width="3.333333333333333" x1="245.22888608770648" x2="444.81921316260866" stroke="black" y1="1356.0"/>
+</svg>
+

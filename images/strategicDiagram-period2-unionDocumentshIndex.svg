@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="800" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 800 800" height="800" preserveAspectRatio="xMidYMid meet" version="1.0">
+<radialGradient xlink:actuate="onLoad" xlink:type="simple" id="sphereTheme" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop style="stop-color:#C6DD3A" offset="0"/>
+<stop style="stop-color:#C3DA39" offset="0.211"/>
+<stop style="stop-color:#B8CF37" offset="0.3881"/>
+<stop style="stop-color:#A7BE34" offset="0.5529"/>
+<stop style="stop-color:#8EA630" offset="0.7103"/>
+<stop style="stop-color:#6F872A" offset="0.861"/>
+<stop style="stop-color:#4B6323" offset="1"/>
+</radialGradient>
+<line y2="400" stroke-width="1" x1="60" x2="740" stroke="black" y1="400"/>
+<line y2="740" stroke-width="1" x1="400" x2="400" stroke="black" y1="60"/>
+<text x="730" y="400" id="text23" style="font-size:12px;text-anchor:end;fill:#000000;font-family:Verdana">centrality</text>
+<text x="400" y="60" id="text24" style="font-size:12px;text-anchor:end;fill:#000000;font-family:Verdana">density</text>
+<line y2="0" stroke-width="1" x1="0" x2="799" stroke="black" y1="0"/>
+<line y2="799" stroke-width="1" x1="0" x2="799" stroke="black" y1="799"/>
+<line y2="799" stroke-width="1" x1="0" x2="0" stroke="black" y1="0"/>
+<line y2="799" stroke-width="1" x1="799" x2="799" stroke="black" y1="0"/>
+<circle id="circle15" r="60.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="60.0"/>
+<text x="740.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">TERM-SETS<tspan x="740.0" id="text25" y="75.0">54</tspan>
+</text>
+<circle id="circle15" r="52.59259259259259" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="710.4347826086956" cy="89.56521739130437"/>
+<text x="710.4347826086956" y="89.56521739130437" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">AHP<tspan x="710.4347826086956" id="text25" y="104.56521739130437">44</tspan>
+</text>
+<circle id="circle15" r="49.629629629629626" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="651.304347826087" cy="207.82608695652175"/>
+<text x="651.304347826087" y="207.82608695652175" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SIMILARITY-MEASURES<tspan x="651.304347826087" id="text25" y="222.82608695652175">40</tspan>
+</text>
+<circle id="circle15" r="48.888888888888886" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="680.8695652173913" cy="237.39130434782612"/>
+<text x="680.8695652173913" y="237.39130434782612" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CONSENSUS<tspan x="680.8695652173913" id="text25" y="252.39130434782612">39</tspan>
+</text>
+<circle id="circle15" r="45.925925925925924" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="621.7391304347826" cy="326.0869565217391"/>
+<text x="621.7391304347826" y="326.0869565217391" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MULTI-ATTRIBUTE-GROUP-DECISION-MAKING<tspan x="621.7391304347826" id="text25" y="341.0869565217391">35</tspan>
+</text>
+<circle id="circle15" r="42.96296296296296" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="444.3478260869565" cy="503.47826086956525"/>
+<text x="444.3478260869565" y="503.47826086956525" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MULTI-CRITERIA-GROUP-DECISION-MAKING<tspan x="444.3478260869565" id="text25" y="518.4782608695652">31</tspan>
+</text>
+<circle id="circle15" r="40.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="562.6086956521739" cy="296.52173913043475"/>
+<text x="562.6086956521739" y="296.52173913043475" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CONSENSUS-REACHING-PROCESS<tspan x="562.6086956521739" id="text25" y="311.52173913043475">27</tspan>
+</text>
+<circle id="circle15" r="39.25925925925926" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="503.47826086956525" cy="178.26086956521738"/>
+<text x="503.47826086956525" y="178.26086956521738" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">VIKOR-METHOD<tspan x="503.47826086956525" id="text25" y="193.26086956521738">26</tspan>
+</text>
+<circle id="circle15" r="38.51851851851852" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="592.1739130434783" cy="533.0434782608695"/>
+<text x="592.1739130434783" y="533.0434782608695" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">UNCERTAINTY<tspan x="592.1739130434783" id="text25" y="548.0434782608695">25</tspan>
+</text>
+<circle id="circle15" r="37.77777777777778" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="533.0434782608695" cy="562.6086956521739"/>
+<text x="533.0434782608695" y="562.6086956521739" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FUZZY-SETS<tspan x="533.0434782608695" id="text25" y="577.6086956521739">24</tspan>
+</text>
+<circle id="circle15" r="36.29629629629629" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="414.7826086956522" cy="473.9130434782609"/>
+<text x="414.7826086956522" y="473.9130434782609" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SUPPLIER-SELECTION<tspan x="414.7826086956522" id="text25" y="488.9130434782609">22</tspan>
+</text>
+<circle id="circle15" r="35.55555555555556" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="473.9130434782609" cy="651.304347826087"/>
+<text x="473.9130434782609" y="651.304347826087" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">LINGUISTIC-TERM-SETS<tspan x="473.9130434782609" id="text25" y="666.304347826087">21</tspan>
+</text>
+<circle id="circle15" r="33.33333333333333" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="207.82608695652175" cy="680.8695652173913"/>
+<text x="207.82608695652175" y="680.8695652173913" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MEMBERSHIP-GRADES<tspan x="207.82608695652175" id="text25" y="695.8695652173913">18</tspan>
+</text>
+<circle id="circle15" r="31.85185185185185" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="237.3913043478261" cy="414.7826086956522"/>
+<text x="237.3913043478261" y="414.7826086956522" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">WEIGHTED-AVERAGING-OPERATORS<tspan x="237.3913043478261" id="text25" y="429.7826086956522">16</tspan>
+</text>
+<circle id="circle15" r="31.85185185185185" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="266.95652173913044" cy="710.4347826086956"/>
+<text x="266.95652173913044" y="710.4347826086956" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">LINGUISTIC-INFORMATION<tspan x="266.95652173913044" id="text25" y="725.4347826086956">16</tspan>
+</text>
+<circle id="circle15" r="31.11111111111111" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="385.2173913043478" cy="592.1739130434783"/>
+<text x="385.2173913043478" y="592.1739130434783" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">INFORMATION-AGGREGATION<tspan x="385.2173913043478" id="text25" y="607.1739130434783">15</tspan>
+</text>
+<circle id="circle15" r="30.37037037037037" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="326.0869565217391" cy="148.695652173913"/>
+<text x="326.0869565217391" y="148.695652173913" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">RECOMMENDER-SYSTEM<tspan x="326.0869565217391" id="text25" y="163.695652173913">14</tspan>
+</text>
+<circle id="circle15" r="29.62962962962963" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="178.26086956521738" cy="266.95652173913044"/>
+<text x="178.26086956521738" y="266.95652173913044" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">GENETIC-ALGORITHM<tspan x="178.26086956521738" id="text25" y="281.95652173913044">13</tspan>
+</text>
+<circle id="circle15" r="29.62962962962963" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="296.52173913043475" cy="385.2173913043478"/>
+<text x="296.52173913043475" y="385.2173913043478" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">PRIORITY-WEIGHTS<tspan x="296.52173913043475" id="text25" y="400.2173913043478">13</tspan>
+</text>
+<circle id="circle15" r="29.62962962962963" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="148.69565217391306" cy="621.7391304347826"/>
+<text x="148.69565217391306" y="621.7391304347826" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">PRIORITY<tspan x="148.69565217391306" id="text25" y="636.7391304347826">13</tspan>
+</text>
+<circle id="circle15" r="28.148148148148145" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="119.13043478260869" cy="444.3478260869565"/>
+<text x="119.13043478260869" y="444.3478260869565" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">GEOMETRIC-OPERATORS<tspan x="119.13043478260869" id="text25" y="459.3478260869565">11</tspan>
+</text>
+<circle id="circle15" r="27.407407407407405" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="89.56521739130434" cy="355.6521739130435"/>
+<text x="89.56521739130434" y="355.6521739130435" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">RANKING-METHOD<tspan x="89.56521739130434" id="text25" y="370.6521739130435">10</tspan>
+</text>
+<circle id="circle15" r="24.444444444444443" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="355.6521739130435" cy="119.13043478260875"/>
+<text x="355.6521739130435" y="119.13043478260875" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MULTI-AGENT-SYSTEMS<tspan x="355.6521739130435" id="text25" y="134.13043478260875">6</tspan>
+</text>
+</svg>
+

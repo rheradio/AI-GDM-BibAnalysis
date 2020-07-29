@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="800" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 800 800" height="800" preserveAspectRatio="xMidYMid meet" version="1.0">
+<radialGradient xlink:actuate="onLoad" xlink:type="simple" id="sphereTheme" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop style="stop-color:#C6DD3A" offset="0"/>
+<stop style="stop-color:#C3DA39" offset="0.211"/>
+<stop style="stop-color:#B8CF37" offset="0.3881"/>
+<stop style="stop-color:#A7BE34" offset="0.5529"/>
+<stop style="stop-color:#8EA630" offset="0.7103"/>
+<stop style="stop-color:#6F872A" offset="0.861"/>
+<stop style="stop-color:#4B6323" offset="1"/>
+</radialGradient>
+<line y2="400" stroke-width="1" x1="60" x2="740" stroke="black" y1="400"/>
+<line y2="740" stroke-width="1" x1="400" x2="400" stroke="black" y1="60"/>
+<text x="730" y="400" id="text23" style="font-size:12px;text-anchor:end;fill:#000000;font-family:Verdana">centrality</text>
+<text x="400" y="60" id="text24" style="font-size:12px;text-anchor:end;fill:#000000;font-family:Verdana">density</text>
+<line y2="0" stroke-width="1" x1="0" x2="799" stroke="black" y1="0"/>
+<line y2="799" stroke-width="1" x1="0" x2="799" stroke="black" y1="799"/>
+<line y2="799" stroke-width="1" x1="0" x2="0" stroke="black" y1="0"/>
+<line y2="799" stroke-width="1" x1="799" x2="799" stroke="black" y1="0"/>
+<circle id="circle15" r="60.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="620.0" cy="460.0"/>
+<text x="620.0" y="460.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">OWA-OPERATORS<tspan x="620.0" id="text25" y="475.0">10,260</tspan>
+</text>
+<circle id="circle15" r="46.32358674463937" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="500.0" cy="420.0"/>
+<text x="500.0" y="420.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CONSISTENCY<tspan x="500.0" id="text25" y="435.0">6,752</tspan>
+</text>
+<circle id="circle15" r="44.799220272904485" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="580.0" cy="620.0"/>
+<text x="580.0" y="620.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">TOPSIS<tspan x="580.0" id="text25" y="635.0">6,361</tspan>
+</text>
+<circle id="circle15" r="32.592592592592595" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="660.0" cy="700.0"/>
+<text x="660.0" y="700.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">DECISION-MAKING<tspan x="660.0" id="text25" y="715.0">3,230</tspan>
+</text>
+<circle id="circle15" r="31.009746588693957" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="60.0"/>
+<text x="740.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FUZZY-SETS<tspan x="740.0" id="text25" y="75.0">2,824</tspan>
+</text>
+<circle id="circle15" r="30.031189083820664" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="420.0" cy="500.0"/>
+<text x="420.0" y="500.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">INFORMATION-RETRIEVAL<tspan x="420.0" id="text25" y="515.0">2,573</tspan>
+</text>
+<circle id="circle15" r="26.346978557504872" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="340.0" cy="300.0"/>
+<text x="340.0" y="300.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MAJORITY<tspan x="340.0" id="text25" y="315.0">1,628</tspan>
+</text>
+<circle id="circle15" r="23.684210526315788" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="180.0" cy="660.0"/>
+<text x="180.0" y="660.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">ALTERNATIVES<tspan x="180.0" id="text25" y="675.0">945</tspan>
+</text>
+<circle id="circle15" r="23.20857699805068" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="220.0" cy="580.0"/>
+<text x="220.0" y="580.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">EXTENT-ANALYSIS-METHOD<tspan x="220.0" id="text25" y="595.0">823</tspan>
+</text>
+<circle id="circle15" r="22.210526315789473" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="540.0" cy="180.0"/>
+<text x="540.0" y="180.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MULTI-ATTRIBUTE-GROUP-DECISION-MAKING<tspan x="540.0" id="text25" y="195.0">567</tspan>
+</text>
+<circle id="circle15" r="21.43859649122807" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="380.0" cy="259.99999999999994"/>
+<text x="380.0" y="259.99999999999994" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CUSTOMER-REQUIREMENTS<tspan x="380.0" id="text25" y="274.99999999999994">369</tspan>
+</text>
+<circle id="circle15" r="21.309941520467838" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="300.0" cy="380.0"/>
+<text x="300.0" y="380.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">COMPUTER-MEDIATED-COMMUNICATION<tspan x="300.0" id="text25" y="395.0">336</tspan>
+</text>
+<circle id="circle15" r="20.57699805068226" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="140.0" cy="540.0"/>
+<text x="140.0" y="540.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">EXPERT-SYSTEM<tspan x="140.0" id="text25" y="555.0">148</tspan>
+</text>
+<circle id="circle15" r="20.22222222222222" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="260.0" cy="340.0"/>
+<text x="260.0" y="340.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FUZZY-MAJORITY<tspan x="260.0" id="text25" y="355.0">57</tspan>
+</text>
+<circle id="circle15" r="20.14814814814815" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="460.0" cy="220.0"/>
+<text x="460.0" y="220.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">TRAPEZOID-FUZZY-NUMBERS<tspan x="460.0" id="text25" y="235.0">38</tspan>
+</text>
+<circle id="circle15" r="20.031189083820664" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="700.0" cy="140.0"/>
+<text x="700.0" y="140.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">PUBLIC-INVESTMENT-DECISIONS<tspan x="700.0" id="text25" y="155.0">8</tspan>
+</text>
+<circle id="circle15" r="20.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="100.0" cy="100.0"/>
+<text x="100.0" y="100.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">GROUP-CONSENSUS-OPINION<tspan x="100.0" id="text25" y="115.0">0</tspan>
+</text>
+</svg>
+

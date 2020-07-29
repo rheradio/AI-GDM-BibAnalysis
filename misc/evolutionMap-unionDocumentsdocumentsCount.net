@@ -1,0 +1,142 @@
+*Vertices 58
+1 "Per0_0_MULTI-ATTRIBUTE-GROUP-DECISION-MAKING" 0.0100 0.0100 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+2 "Per0_1_FUZZY-SETS" 0.0100 0.0688 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+3 "Per0_2_OWA-OPERATORS" 0.0100 0.1276 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+4 "Per0_3_CONSISTENCY" 0.0100 0.1865 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+5 "Per0_4_TOPSIS" 0.0100 0.2453 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+6 "Per0_5_DECISION-MAKING" 0.0100 0.3041 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+7 "Per0_6_INFORMATION-RETRIEVAL" 0.0100 0.3629 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+8 "Per0_7_COMPUTER-MEDIATED-COMMUNICATION" 0.0100 0.4218 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+9 "Per0_8_MAJORITY" 0.0100 0.4806 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+10 "Per0_9_ALTERNATIVES" 0.0100 0.5394 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+11 "Per0_10_CUSTOMER-REQUIREMENTS" 0.0100 0.5982 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+12 "Per0_11_EXPERT-SYSTEM" 0.0100 0.6571 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+13 "Per0_12_EXTENT-ANALYSIS-METHOD" 0.0100 0.7159 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+14 "Per0_13_GROUP-CONSENSUS-OPINION" 0.0100 0.7747 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+15 "Per0_14_PUBLIC-INVESTMENT-DECISIONS" 0.0100 0.8335 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+16 "Per0_15_TRAPEZOID-FUZZY-NUMBERS" 0.0100 0.8924 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+17 "Per0_16_FUZZY-MAJORITY" 0.0100 0.9512 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+18 "Per1_0_CONSISTENCY" 0.3433 0.0100 0.5000 ic Blue bc Blue x_fact 5.0 y_fact 5.0
+19 "Per1_1_OWA-OPERATORS" 0.3433 0.0656 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+20 "Per1_2_TOPSIS" 0.3433 0.1211 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+21 "Per1_3_VAGUE-SET-THEORY" 0.3433 0.1767 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+22 "Per1_4_ANALYTIC-NETWORK-PROCESS" 0.3433 0.2322 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+23 "Per1_5_DECISION-MAKING" 0.3433 0.2878 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+24 "Per1_6_LINGUISTIC-VARIABLES" 0.3433 0.3433 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+25 "Per1_7_FUZZY-SETS" 0.3433 0.3989 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+26 "Per1_8_MAJORITY" 0.3433 0.4544 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+27 "Per1_9_ADDITIVE-CONSISTENCY" 0.3433 0.5100 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+28 "Per1_10_GROUP-MEMBERS" 0.3433 0.5656 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+29 "Per1_11_RECOMMENDER-SYSTEM" 0.3433 0.6211 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+30 "Per1_12_NEURAL-NETWORKS" 0.3433 0.6767 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+31 "Per1_13_CONSISTENCY-MEASURES" 0.3433 0.7322 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+32 "Per1_14_CHOQUET-INTEGRAL" 0.3433 0.7878 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+33 "Per1_15_MULTIDIMENSIONAL-ANALYSIS" 0.3433 0.8433 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+34 "Per1_16_FUZZY-GAME-THEORY" 0.3433 0.8989 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+35 "Per1_17_PERSONALITY" 0.3433 0.9544 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+36 "Per2_0_TERM-SETS" 0.6767 0.0100 0.5000 ic Blue bc Blue x_fact 10.0 y_fact 10.0
+37 "Per2_1_AHP" 0.6767 0.0535 0.5000 ic Blue bc Blue x_fact 7.0 y_fact 7.0
+38 "Per2_2_CONSENSUS" 0.6767 0.0970 0.5000 ic Blue bc Blue x_fact 4.0 y_fact 4.0
+39 "Per2_3_SIMILARITY-MEASURES" 0.6767 0.1404 0.5000 ic Blue bc Blue x_fact 5.0 y_fact 5.0
+40 "Per2_4_MULTI-ATTRIBUTE-GROUP-DECISION-MAKING" 0.6767 0.1839 0.5000 ic Blue bc Blue x_fact 5.0 y_fact 5.0
+41 "Per2_5_VIKOR-METHOD" 0.6767 0.2274 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+42 "Per2_6_UNCERTAINTY" 0.6767 0.2709 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+43 "Per2_7_CONSENSUS-REACHING-PROCESS" 0.6767 0.3143 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+44 "Per2_8_FUZZY-SETS" 0.6767 0.3578 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+45 "Per2_9_SUPPLIER-SELECTION" 0.6767 0.4013 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+46 "Per2_10_MULTI-CRITERIA-GROUP-DECISION-MAKING" 0.6767 0.4448 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+47 "Per2_11_LINGUISTIC-TERM-SETS" 0.6767 0.4883 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+48 "Per2_12_INFORMATION-AGGREGATION" 0.6767 0.5317 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+49 "Per2_13_WEIGHTED-AVERAGING-OPERATORS" 0.6767 0.5752 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+50 "Per2_14_RECOMMENDER-SYSTEM" 0.6767 0.6187 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+51 "Per2_15_GENETIC-ALGORITHM" 0.6767 0.6622 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+52 "Per2_16_MULTI-AGENT-SYSTEMS" 0.6767 0.7057 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+53 "Per2_17_PRIORITY-WEIGHTS" 0.6767 0.7491 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+54 "Per2_18_RANKING-METHOD" 0.6767 0.7926 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+55 "Per2_19_MEMBERSHIP-GRADES" 0.6767 0.8361 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+56 "Per2_20_LINGUISTIC-INFORMATION" 0.6767 0.8796 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+57 "Per2_21_GEOMETRIC-OPERATORS" 0.6767 0.9230 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+58 "Per2_22_PRIORITY" 0.6767 0.9665 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+*edges
+1 21 0.8333 c Blue
+1 28 1.1111 c Gray95
+2 20 0.8333 c Gray95
+2 25 0.8333 c Blue
+3 18 2.5000 c Gray95
+3 19 2.5000 c Blue
+4 18 3.3333 c Blue
+4 25 0.8333 c Gray95
+4 27 3.0000 c Blue
+4 29 1.6667 c Blue
+5 20 2.5000 c Blue
+5 21 2.5000 c Blue
+5 22 1.6667 c Gray95
+5 24 0.8333 c Gray95
+5 25 0.8333 c Gray95
+6 23 0.8333 c Blue
+6 24 0.8333 c Gray95
+6 25 1.6667 c Gray95
+6 26 2.0000 c Gray95
+6 27 1.0000 c Gray95
+7 24 1.2500 c Blue
+7 29 3.3333 c Blue
+9 26 4.0000 c Blue
+10 20 2.0000 c Gray95
+10 22 2.0000 c Blue
+10 23 2.0000 c Gray95
+10 25 2.0000 c Gray95
+13 30 2.5000 c Blue
+17 26 3.3333 c Blue
+18 36 2.5000 c Blue
+18 37 3.3333 c Blue
+18 38 1.6667 c Blue
+18 53 2.0000 c Blue
+19 36 2.5000 c Blue
+19 39 0.8333 c Gray95
+19 40 0.8333 c Blue
+19 49 2.8571 c Gray95
+19 57 3.3333 c Gray95
+20 37 1.6667 c Blue
+20 41 1.6667 c Gray95
+20 45 0.8333 c Gray95
+20 46 0.8333 c Blue
+21 39 4.1667 c Blue
+21 40 0.8333 c Blue
+21 45 0.8333 c Gray95
+21 54 2.5000 c Gray95
+22 44 0.8333 c Gray95
+22 45 2.5000 c Blue
+22 46 0.8333 c Gray95
+22 56 2.5000 c Gray95
+23 42 0.8333 c Blue
+23 43 0.8333 c Gray95
+23 45 0.8333 c Gray95
+23 48 1.2500 c Gray95
+23 51 3.3333 c Blue
+24 38 1.6667 c Gray95
+24 40 0.8333 c Gray95
+24 50 1.6667 c Blue
+25 39 0.8333 c Gray95
+25 41 0.8333 c Blue
+25 42 0.8333 c Blue
+25 44 0.8333 c Blue
+25 46 0.8333 c Gray95
+25 50 1.6667 c Gray95
+25 53 2.0000 c Gray95
+26 43 3.0000 c Blue
+26 49 1.4286 c Blue
+27 36 1.0000 c Gray95
+27 38 2.0000 c Blue
+27 51 1.6667 c Gray95
+27 53 2.0000 c Gray95
+28 45 1.1111 c Gray95
+28 48 1.2500 c Gray95
+29 50 3.3333 c Blue
+30 44 2.0000 c Gray95
+31 39 2.5000 c Gray95
+31 43 2.5000 c Blue
+31 58 3.3333 c Blue
+32 40 5.0000 c Gray95
+32 46 5.0000 c Blue
+35 42 3.3333 c Gray95
+35 52 6.6667 c Blue
